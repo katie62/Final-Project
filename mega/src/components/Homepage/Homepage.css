@@ -1,0 +1,46 @@
+.homepage{
+    font-family:'Poppins', sans-serif;
+}
+
+
+.cover{
+ 
+ width: 95rem;
+ 
+}
+
+.counter{
+    width: 100%;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  
+}
+
+.number{
+    color: rgb(216, 139, 51);
+}
+
+.info{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.head{
+    margin: 1rem;
+    color: rgb(216, 139, 51);
+}
+
+.video{
+    margin: 2rem;
+    border-radius: 2rem;
+    
+}
+
+.para {
+    margin: 1rem;
+    width: 50rem;
+    
+
+}

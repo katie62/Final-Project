@@ -1,0 +1,16 @@
+.sect{
+    align-items: center;
+    margin: 3rem;
+    display: flex;
+}
+
+.imgs{
+    width: 30rem;
+}
+
+.infos{
+    width: 50rem;
+    margin: 3rem;
+    
+
+}
